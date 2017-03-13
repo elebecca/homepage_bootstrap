@@ -1,0 +1,110 @@
+
+.feature .glyphicon{
+	font-size: 30px;
+	color:#C3C3C3;
+}
+.p{
+	color: rgba(0,0,0,.8);
+	font-size:18px;
+	margin:0px 0px 28px;
+}
+
+.feature{
+	margin: 30px 0px 30px 0px;
+	padding:25px 10px 25px 10px;
+	background-color: rgba(245, 245, 245, 0.6);
+	height:320px;
+}
+.feature:hover { 
+    background-color: #F5F5F5;
+
+
+}
+.pattern {
+	background-image:url("../images/pattern.jpg");
+	background-repeat: repeat;
+}
+.about-text {
+	background-color: rgba(245, 245, 245, 0.6);
+	padding:30px 50px 30px 50px;
+    font-family:"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+
+}
+.footer{
+		background-color:#C3C3C3 ;
+        padding-top: 10px;
+}
+.aside li {
+	color:black;
+	border-top:solid 1px  #C7C7C7;
+	list-style: none;
+	padding:5px 0px 5px 0px;
+	list-style-position: inside;
+	text-decoration: none;
+
+
+}
+.aside ul{
+	padding:0px;
+}
+.aside li:last-child {
+    border-bottom:solid 1px  #C7C7C7;
+}
+
+.title-artic{
+	font-family:"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
+	font-weight: 600;
+    font-size: 50px;
+    line-height: 1.04;
+    letter-spacing: -.028em;
+    border-bottom:solid 1px  #C7C7C7;
+    margin:20px 0px 20px 0px;
+    color:rgba(0,0,0,.8);
+}
+.title-index{
+	font-family:"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
+	font-weight: 600;
+    font-size: 30px;
+    line-height: 1.04;
+    letter-spacing: -.028em;
+    color:rgba(0,0,0,.8);
+}
+
+
+
+.text-artic p{
+	color: rgba(0,0,0,.8);
+	font-size:18px;
+}
+blockquote{
+	font-family: medium-content-slab-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 28px;
+    color:#ADADAD;
+}
+
+.social ul{
+	marin:50px 10px 20px 10px;
+}
+.social li{
+
+    display:inline;
+    padding:50px 10px 20px 10px;
+    text-align: center;
+    margin: auto;
+}
+
+.date{
+	color: rgba(0,0,0,.8);
+	font-size:14px;
+}
+.row-text{
+	padding:25px;
+}
+span{
+	display:inline;
+}
+/*div[class^='col-'], div[class*=' col-']{
+	background-color: rgba(255, 0, 0, 0.2);
+}*/
