@@ -9,7 +9,7 @@
   * Bootstrap
   * Sublime Text 2
   * Balsamiq for the mockup
-  * Sublime Text 2
+ 
   
  ## Team
   Elena Beccaro - Front End and Designer
